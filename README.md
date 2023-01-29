@@ -4,6 +4,7 @@
 [![View Linkedin](https://img.shields.io/badge/View-My_Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/maqboolkazmi/)
 
 
+
 # Python
 Python is a widely-used, high-level, open-source programming language for general-purpose programming. It was created by Guido van Rossum and first released in 1991. Python is known for its simplicity, readability, and expressiveness, making it a popular choice for beginners and experienced programmers alike. It supports multiple programming paradigms, including object-oriented, imperative, functional, and procedural. It is widely used in web development, scientific computing, data analysis, artificial intelligence, and other areas. It has a large and active community, which has developed a wide range of libraries and frameworks to support various programming tasks.
 
