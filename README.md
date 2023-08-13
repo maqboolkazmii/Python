@@ -2,6 +2,7 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/maqboolkazmii)
 [![View Linkedin](https://img.shields.io/badge/View-My_Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/maqboolkazmi/)
+[![View Kaggle](https://img.shields.io/badge/View-My_Kaggle-lightblue?logo=Kaggle)](https://www.kaggle.com/maqboolkaxmi)
 
 
 
